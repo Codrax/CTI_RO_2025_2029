@@ -16,3 +16,9 @@ ms!! :)
 ## Ani anteriori
 Mosteniri anterioare, gestionate de alte clase
 - [Brigada-Inginerilor-Amarati/CTI_RO_2023_2027](https://github.com/Brigada-Inginerilor-Amarati/CTI_RO_2023_2027/)
+- [UPT-AC-Notes 2024 (engleza)](https://github.com/orgs/UPT-AC-Notes/repositories)
+
+## Somwhat releated
+Mosteniri de la alte facultati
+### Universitatea Politehnica Bucuresti
+- [/lmihaig/facultate/ (2020-2024)](https://github.com/lmihaig/facultate/)
