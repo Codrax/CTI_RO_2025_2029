@@ -13,6 +13,9 @@ ms!! :)
 - Exercitii
 - Altele
 
+## Disclaimer
+Subiectele se schimba de la an la an, asadar examenele puse aici si pe alte mosteniri sunt doar de referință!!
+
 ## Ani anteriori
 Mosteniri anterioare, gestionate de alte clase
 - [Brigada-Inginerilor-Amarati/CTI_RO_2023_2027](https://github.com/Brigada-Inginerilor-Amarati/CTI_RO_2023_2027/)
