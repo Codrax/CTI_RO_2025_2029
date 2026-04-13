@@ -1,0 +1,53 @@
+let jspdf = document.createElement("script");
+
+jspdf.onload = function () {
+
+    let pdf = new jsPDF('l', 'mm', 'a4');
+    let elements = document.getElementsByTagName("img");
+
+    let pageWidth = pdf.internal.pageSize.getWidth();
+    let pageHeight = pdf.internal.pageSize.getHeight();
+
+    let added = 0;
+
+    for (let i = 0; i < elements.length; i++) {
+        let img = elements[i];
+
+        if (!/^blob:/.test(img.src)) continue;
+
+        let can = document.createElement('canvas');
+        let con = can.getContext("2d");
+
+        can.width = img.width;
+        can.height = img.height;
+        con.drawImage(img, 0, 0, img.width, img.height);
+
+        let imgData = can.toDataURL("image/jpeg", 1.0);
+
+        let imgWidth = can.width;
+        let imgHeight = can.height;
+
+        // scale to fit page
+        let ratio = Math.min(pageWidth / imgWidth, pageHeight / imgHeight);
+        let newWidth = imgWidth * ratio;
+        let newHeight = imgHeight * ratio;
+
+        // center
+        let x = (pageWidth - newWidth) / 2;
+        let y = (pageHeight - newHeight) / 2;
+
+        if (added > 0) pdf.addPage();
+
+        pdf.addImage(imgData, 'JPEG', x, y, newWidth, newHeight);
+        added++;
+    }
+
+    if (added > 0) {
+        pdf.save("download.pdf");
+    } else {
+        console.log("No valid images found.");
+    }
+};
+
+jspdf.src = 'https' + '://' + 'cdnjs' + '.cloudflare' + '.com/ajax/libs/jspdf/1.5.3/jspdf.debug.js';
+document.body.appendChild(jspdf);
