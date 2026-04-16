@@ -22,18 +22,31 @@ Subiectele se schimba de la an la an, asadar examenele puse aici si pe alte most
 # Plan de învățământ
 Planul de învățământ pentru **Seria D**
 
-### 2025 - Semestrul 1
-|         Examen          |                   Discipline (**obligatorii**)                                      |  Forma evaluare   | Crd. |               Curs                |    Laborator/Seminar      |
-| :------------------: | :------------------------------------------------------------------------------------: | :---------------: | :--: | :-------------------------------: | :-----------------------: |
-|          DF          | [Analiza Matematica](Semestrul%201/Analiza%20Matematica)                          |   E               |  4   | Adina Juratoni                    |  Adina Juratoni           |
-|          DF          | [Electrotehnica](Semestrul%201/Electrotehnica)                                    |   V               |  4   | Ildiko Tatai                      | Ilie Simona   |           |
-|          DD          | [Logica si Structuri Discrete](Semestrul%201/Logica%20si%20Structuri%20Discrete]) |   E               |  5   | Catalin Iapa                      |                           |
-|          DF          | [Algebra si Geometrie](Semestrul%201/Algebra%20si%20Geometrie)                    |   V               |  5   | Algebra si Geometrie              |                           |
-|          DC          | [Programarea Calculatoarelor](Semestrul%201/Programarea%20Calculatoarelor)        |   E               |  6   | Stângaciu Valentin                | Csereoka Petra            |
-|          DD          | [Fizica](Semestrul%201/Fizica)                                                    |   E               |  4   | Trif-Tordai Delia                 | Trif-Tordai Delia         |
-|          DC          | Educatie fizica                                                                        |   V               |  1   |                                   |                           |
-|          DC          | Limba straina                                                                          |   V               |  2   |                                   |                           |
-|                      | Total                                                                                  |   V               |  31  |                                   |                           |
+### 2025-2026 - Semestrul 1
+|         Examen       |                   Discipline (**obligatorii**)                                                |  Forma evaluare   | Crd. |               Curs                |    Laborator/Seminar      |
+| :------------------: | :-------------------------------------------------------------------------------------------: | :---------------: | :--: | :-------------------------------: | :-----------------------: |
+|          DF          | [Analiza Matematica](Semestrul%201/Analiza%20Matematica)                                      |   E               |  4   | Adina Juratoni                    |  Adina Juratoni           |
+|          DF          | [Electrotehnica](Semestrul%201/Electrotehnica)                                                |   V               |  4   | Ildiko Tatai                      | Ilie Simona               |
+|          DF          | [Logica si Structuri Discrete](Semestrul%201/Logica%20si%20Structuri%20Discrete])             |   E               |  5   | Catalin Iapa                      |                           |
+|          DF          | [Algebra si Geometrie](Semestrul%201/Algebra%20si%20Geometrie)                                |   V               |  5   | Eckstein Andrei                   |                           |
+|          DF          | [Programarea Calculatoarelor](Semestrul%201/Programarea%20Calculatoarelor)                    |   E               |  6   | Stângaciu Valentin                | Csereoka Petra            |
+|          DF          | [Fizica](Semestrul%201/Fizica)                                                                |   E               |  4   | Trif-Tordai Delia                 | Trif-Tordai Delia         |
+|          DC          | Educatie fizica                                                                               |   V               |  1   |                                   |                           |
+|          DC          | Limba straina                                                                                 |   V               |  2   |                                   |                           |
+|                      | Total                                                                                         |                   |  31  |                                   |                           |
+
+### 2025-2026 - Semestrul 2
+|         Examen       |                   Discipline (**obligatorii**)                                                |  Forma evaluare   | Crd. |               Curs                |    Laborator/Seminar      |
+| :------------------: | :-------------------------------------------------------------------------------------------: | :---------------: | :--: | :-------------------------------: | :-----------------------: |
+|          DF          | [Matematici asistate de calculator](Semestrul%202/Matematici%20asistate%20de%20calculator)    |   V               |  5   | Calin-Adrian Popa                 |                           |
+|          DF          | [Probabilități și statistică](Semestrul%202/Probabilitati%20si%20Statistica)                  |   E               |  5   | Pater Flavius                     |                           |
+|          DF          | [Dispozitive electronice și măsurări](Semestrul%202/Dispozitive%20Electrice%20si%20Masurari]) |   E               |  5   | Daneti Marllene                   |                           |
+|          DF          | [Tehnici de programare](Semestrul%202/Tehnici%20de%20Programare)                              |   E               |  6   | Iapa Catalin                      |                           |
+|          DF          | [Logica digitala](Semestrul%202/Logica%20Digitala)                                            |   E               |  6   | Boncalo Oana                      |                           |
+|          DC          | Educatie fizica 2                                                                             |   V               |  5   |                                   |                           |
+|          DC          | Limba straina 2                                                                               |   V               |  1   |                                   |                           |
+|                      | Total                                                                                         |                   |  2   |                                   |                           |
+
 
 # Anii anteriori
 Mosteniri anterioare, gestionate de alte clase
