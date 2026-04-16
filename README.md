@@ -40,7 +40,7 @@ Planul de învățământ pentru **Seria D**
 | :------------------: | :-------------------------------------------------------------------------------------------: | :---------------: | :--: | :-------------------------------: | :-----------------------: |
 |          DF          | [Matematici asistate de calculator](Semestrul%202/Matematici%20asistate%20de%20calculator)    |   V               |  5   | Calin-Adrian Popa                 |                           |
 |          DF          | [Probabilități și statistică](Semestrul%202/Probabilitati%20si%20Statistica)                  |   E               |  5   | Pater Flavius                     |                           |
-|          DF          | [Dispozitive electronice și măsurări](Semestrul%202/Dispozitive%20Electrice%20si%20Masurari]) |   E               |  5   | Daneti Marllene                   |                           |
+|          DF          | [Dispozitive electronice și măsurări](Semestrul%202/Dispozitive%20Electrice%20si%20Masurari)  |   E               |  5   | Daneti Marllene                   |                           |
 |          DF          | [Tehnici de programare](Semestrul%202/Tehnici%20de%20Programare)                              |   E               |  6   | Iapa Catalin                      |                           |
 |          DF          | [Logica digitala](Semestrul%202/Logica%20Digitala)                                            |   E               |  6   | Boncalo Oana                      |                           |
 |          DC          | Educatie fizica 2                                                                             |   V               |  5   |                                   |                           |
