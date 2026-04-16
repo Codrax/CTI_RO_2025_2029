@@ -25,12 +25,12 @@ Planul de învățământ pentru **Seria D**
 ### 2025 - Semestrul 1
 |         Examen          |                   Discipline (**obligatorii**)                                      |  Forma evaluare   | Crd. |               Curs                |    Laborator/Seminar      |
 | :------------------: | :------------------------------------------------------------------------------------: | :---------------: | :--: | :-------------------------------: | :-----------------------: |
-|          DF          | [Analiza Matematica](2025/Semestrul%201/Analiza%20Matematica)                          |   E               |  4   | Adina Juratoni                    |  Adina Juratoni           |
-|          DF          | [Electrotehnica](2025/Semestrul%201/Electrotehnica)                                    |   V               |  4   | Ildiko Tatai                      | Ilie Simona   |           |
-|          DD          | [Logica si Structuri Discrete](2025/Semestrul%201/Logica%20si%20Structuri%20Discrete]) |   E               |  5   | Catalin Iapa                      |                           |
-|          DF          | [Algebra si Geometrie](2025/Semestrul%201/Algebra%20si%20Geometrie)                    |   V               |  5   | Algebra si Geometrie              |                           |
-|          DC          | [Programarea Calculatoarelor](2025/Semestrul%201/Programarea%20Calculatoarelor)        |   E               |  6   | Stângaciu Valentin                | Csereoka Petra            |
-|          DD          | [Fizica](2025/Semestrul%201/Fizica)                                                    |   E               |  4   | Trif-Tordai Delia                 | Trif-Tordai Delia         |
+|          DF          | [Analiza Matematica](Semestrul%201/Analiza%20Matematica)                          |   E               |  4   | Adina Juratoni                    |  Adina Juratoni           |
+|          DF          | [Electrotehnica](Semestrul%201/Electrotehnica)                                    |   V               |  4   | Ildiko Tatai                      | Ilie Simona   |           |
+|          DD          | [Logica si Structuri Discrete](Semestrul%201/Logica%20si%20Structuri%20Discrete]) |   E               |  5   | Catalin Iapa                      |                           |
+|          DF          | [Algebra si Geometrie](Semestrul%201/Algebra%20si%20Geometrie)                    |   V               |  5   | Algebra si Geometrie              |                           |
+|          DC          | [Programarea Calculatoarelor](Semestrul%201/Programarea%20Calculatoarelor)        |   E               |  6   | Stângaciu Valentin                | Csereoka Petra            |
+|          DD          | [Fizica](Semestrul%201/Fizica)                                                    |   E               |  4   | Trif-Tordai Delia                 | Trif-Tordai Delia         |
 |          DC          | Educatie fizica                                                                        |   V               |  1   |                                   |                           |
 |          DC          | Limba straina                                                                          |   V               |  2   |                                   |                           |
 |                      | Total                                                                                  |   V               |  31  |                                   |                           |
