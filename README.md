@@ -45,7 +45,7 @@ Planul de învățământ pentru **Seria D**
 |          DF          | [Logica digitala](Semestrul%202/Logica%20Digitala)                                            |   E               |  6   | Boncalo Oana                      |                           |
 |          DC          | Educatie fizica 2                                                                             |   V               |  5   |                                   |                           |
 |          DC          | Limba straina 2                                                                               |   V               |  1   |                                   |                           |
-|                      | Total                                                                                         |                   |  2   |                                   |                           |
+|                      | Total                                                                                         |                   |  33  |                                   |                           |
 
 
 # Anii anteriori
