@@ -1,0 +1,31 @@
+Randul 1
+
+1.
+Fie X, Y variabile aleatoare uniform continue.
+X, Y ~ U[0, 1]
+
+Sa se determine densitatea de repartiei corespunzatoare variabilelo aleatoare:
+U = max(X, Y)
+V = min(X, Y)
+
+2.
+Se considera functia caracteristica fi(t) = e^(-|t|).
+Sa se determine functia de repartitie corespunzatoare acesteia.
+
+3.
+Pentru esantionul de castiguri lunare
+
+6 8 11 16 18 18 21 22 23
+
+Sa se determine
+a) Valorile si frecventele absolute corespunzatoare
+b) Media, mediaia si modul
+c) Amplitutidnea absoluta si relativa
+d) Analizate omogenitatea seriei date
+
+
+4.
+[Idk. ceva cu un robot si interval de incredere]
+
+5.
+[Interval de incredere]
