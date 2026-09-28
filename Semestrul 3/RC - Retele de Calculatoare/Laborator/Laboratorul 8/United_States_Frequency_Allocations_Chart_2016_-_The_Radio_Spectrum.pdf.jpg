@@ -1,0 +1,696 @@
+<!DOCTYPE html>
+
+<html  dir="ltr" lang="ro" xml:lang="ro">
+<head>
+    <title>Conectați-vă la site | CV</title>
+    <link rel="shortcut icon" href="https://cv.upt.ro/pluginfile.php/1/theme_cv26/favicon/1790575034/favicon.ico" />
+    <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-R6B4NG18LT"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-R6B4NG18LT');
+</script><meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="keywords" content="moodle, Conectați-vă la site | CV" />
+<link rel="stylesheet" type="text/css" href="https://cv.upt.ro/theme/yui_combo.php?rollup/3.18.1/yui-moodlesimple-min.css" /><script id="firstthemesheet" type="text/css">/** Required in order to fix style inclusion problems in IE with YUI **/</script><link rel="stylesheet" type="text/css" href="https://cv.upt.ro/theme/styles.php/cv26/1790575034_1789771940/all" />
+<script>
+//<![CDATA[
+var M = {}; M.yui = {};
+M.pageloadstarttime = new Date();
+M.cfg = {"wwwroot":"https:\/\/cv.upt.ro","apibase":"https:\/\/cv.upt.ro\/api","homeurl":{},"sesskey":"BrgwNHaRee","sessiontimeout":"7200","sessiontimeoutwarning":"1200","themerev":"1790575034","slasharguments":1,"theme":"cv26","iconsystemmodule":"core\/icon_system_fontawesome","jsrev":"1790575034","admin":"admin","svgicons":true,"usertimezone":"Europa\/Bucure\u0219ti","language":"ro","courseId":1,"courseContextId":2,"contextid":1,"contextInstanceId":0,"langrev":1790575034,"templaterev":"1790575034","siteId":1,"userId":0,"deprecationignorelist":[],"traceId":null};var yui1ConfigFn = function(me) {if(/-skin|reset|fonts|grids|base/.test(me.name)){me.type='css';me.path=me.path.replace(/\.js/,'.css');me.path=me.path.replace(/\/yui2-skin/,'/assets/skins/sam/yui2-skin')}};
+var yui2ConfigFn = function(me) {var parts=me.name.replace(/^moodle-/,'').split('-'),component=parts.shift(),module=parts[0],min='-min';if(/-(skin|core)$/.test(me.name)){parts.pop();me.type='css';min=''}
+if(module){var filename=parts.join('-');me.path=component+'/'+module+'/'+filename+min+'.'+me.type}else{me.path=component+'/'+component+'.'+me.type}};
+YUI_config = {"debug":false,"base":"https:\/\/cv.upt.ro\/lib\/yuilib\/3.18.1\/","comboBase":"https:\/\/cv.upt.ro\/theme\/yui_combo.php?","combine":true,"filter":null,"insertBefore":"firstthemesheet","groups":{"yui2":{"base":"https:\/\/cv.upt.ro\/lib\/yuilib\/2in3\/2.9.0\/build\/","comboBase":"https:\/\/cv.upt.ro\/theme\/yui_combo.php?","combine":true,"ext":false,"root":"2in3\/2.9.0\/build\/","patterns":{"yui2-":{"group":"yui2","configFn":yui1ConfigFn}}},"moodle":{"name":"moodle","base":"https:\/\/cv.upt.ro\/theme\/yui_combo.php?m\/1790575034\/","combine":true,"comboBase":"https:\/\/cv.upt.ro\/theme\/yui_combo.php?","ext":false,"root":"m\/1790575034\/","patterns":{"moodle-":{"group":"moodle","configFn":yui2ConfigFn}},"filter":null,"modules":{"moodle-core-lockscroll":{"requires":["plugin","base-build"]},"moodle-core-dragdrop":{"requires":["base","node","io","dom","dd","event-key","event-focus","moodle-core-notification"]},"moodle-core-handlebars":{"condition":{"trigger":"handlebars","when":"after"}},"moodle-core-blocks":{"requires":["base","node","io","dom","dd","dd-scroll","moodle-core-dragdrop","moodle-core-notification"]},"moodle-core-maintenancemodetimer":{"requires":["base","node"]},"moodle-core-event":{"requires":["event-custom"]},"moodle-core-notification":{"requires":["moodle-core-notification-dialogue","moodle-core-notification-alert","moodle-core-notification-exception","moodle-core-notification-ajaxexception"]},"moodle-core-notification-dialogue":{"requires":["base","node","panel","escape","event-key","dd-plugin","moodle-core-widget-focusafterclose","moodle-core-lockscroll"]},"moodle-core-notification-alert":{"requires":["moodle-core-notification-dialogue"]},"moodle-core-notification-exception":{"requires":["moodle-core-notification-dialogue"]},"moodle-core-notification-ajaxexception":{"requires":["moodle-core-notification-dialogue"]},"moodle-core-chooserdialogue":{"requires":["base","panel","moodle-core-notification"]},"moodle-core-actionmenu":{"requires":["base","event","node-event-simulate"]},"moodle-core_availability-form":{"requires":["base","node","event","event-delegate","panel","moodle-core-notification-dialogue","json"]},"moodle-course-dragdrop":{"requires":["base","node","io","dom","dd","dd-scroll","moodle-core-dragdrop","moodle-core-notification","moodle-course-coursebase","moodle-course-util"]},"moodle-course-util":{"requires":["node"],"use":["moodle-course-util-base"],"submodules":{"moodle-course-util-base":{},"moodle-course-util-section":{"requires":["node","moodle-course-util-base"]},"moodle-course-util-cm":{"requires":["node","moodle-course-util-base"]}}},"moodle-course-categoryexpander":{"requires":["node","event-key"]},"moodle-course-management":{"requires":["base","node","io-base","moodle-core-notification-exception","json-parse","dd-constrain","dd-proxy","dd-drop","dd-delegate","node-event-delegate"]},"moodle-form-shortforms":{"requires":["node","base","selector-css3"]},"moodle-form-dateselector":{"requires":["base","node","overlay","calendar"]},"moodle-question-searchform":{"requires":["base","node"]},"moodle-availability_completion-form":{"requires":["base","node","event","moodle-core_availability-form"]},"moodle-availability_date-form":{"requires":["base","node","event","io","moodle-core_availability-form"]},"moodle-availability_grade-form":{"requires":["base","node","event","moodle-core_availability-form"]},"moodle-availability_group-form":{"requires":["base","node","event","moodle-core_availability-form"]},"moodle-availability_grouping-form":{"requires":["base","node","event","moodle-core_availability-form"]},"moodle-availability_profile-form":{"requires":["base","node","event","moodle-core_availability-form"]},"moodle-mod_assign-history":{"requires":["node","transition"]},"moodle-mod_attendance-groupfilter":{"requires":["base","node"]},"moodle-mod_oublog-savecheck":{"requires":["base","node","io","panel","moodle-core-notification-alert"]},"moodle-mod_oublog-tagselector":{"requires":["base","node","autocomplete","autocomplete-filters","autocomplete-highlighters"]},"moodle-mod_quiz-dragdrop":{"requires":["base","node","io","dom","dd","dd-scroll","moodle-core-dragdrop","moodle-core-notification","moodle-mod_quiz-quizbase","moodle-mod_quiz-util-base","moodle-mod_quiz-util-page","moodle-mod_quiz-util-slot","moodle-course-util"]},"moodle-mod_quiz-quizbase":{"requires":["base","node"]},"moodle-mod_quiz-autosave":{"requires":["base","node","event","event-valuechange","node-event-delegate","io-form","datatype-date-format"]},"moodle-mod_quiz-util":{"requires":["node","moodle-core-actionmenu"],"use":["moodle-mod_quiz-util-base"],"submodules":{"moodle-mod_quiz-util-base":{},"moodle-mod_quiz-util-slot":{"requires":["node","moodle-mod_quiz-util-base"]},"moodle-mod_quiz-util-page":{"requires":["node","moodle-mod_quiz-util-base"]}}},"moodle-mod_quiz-questionchooser":{"requires":["moodle-core-chooserdialogue","moodle-mod_quiz-util","querystring-parse"]},"moodle-mod_quiz-toolboxes":{"requires":["base","node","event","event-key","io","moodle-mod_quiz-quizbase","moodle-mod_quiz-util-slot","moodle-core-notification-ajaxexception"]},"moodle-mod_quiz-modform":{"requires":["base","node","event"]},"moodle-message_airnotifier-toolboxes":{"requires":["base","node","io"]},"moodle-block_xp-filters":{"requires":["base","node","moodle-core-dragdrop","moodle-block_xp-rulepicker"]},"moodle-block_xp-rulepicker":{"requires":["base","node","handlebars","moodle-core-notification-dialogue"]},"moodle-block_xp-notification":{"requires":["base","node","handlebars","button-plugin","moodle-core-notification-dialogue"]},"moodle-report_eventlist-eventfilter":{"requires":["base","event","node","node-event-delegate","datatable","autocomplete","autocomplete-filters"]},"moodle-report_loglive-fetchlogs":{"requires":["base","event","node","io","node-event-delegate"]},"moodle-gradereport_history-userselector":{"requires":["escape","event-delegate","event-key","handlebars","io-base","json-parse","moodle-core-notification-dialogue"]},"moodle-qbank_editquestion-chooser":{"requires":["moodle-core-chooserdialogue"]},"moodle-tool_lp-dragdrop-reorder":{"requires":["moodle-core-dragdrop"]},"moodle-assignfeedback_editpdf-editor":{"requires":["base","event","node","io","graphics","json","event-move","event-resize","transition","querystring-stringify-simple","moodle-core-notification-dialog","moodle-core-notification-alert","moodle-core-notification-warning","moodle-core-notification-exception","moodle-core-notification-ajaxexception"]}}},"gallery":{"name":"gallery","base":"https:\/\/cv.upt.ro\/lib\/yuilib\/gallery\/","combine":true,"comboBase":"https:\/\/cv.upt.ro\/theme\/yui_combo.php?","ext":false,"root":"gallery\/1790575034\/","patterns":{"gallery-":{"group":"gallery"}}}},"modules":{"core_filepicker":{"name":"core_filepicker","fullpath":"https:\/\/cv.upt.ro\/lib\/javascript.php\/1790575034\/repository\/filepicker.js","requires":["base","node","node-event-simulate","json","async-queue","io-base","io-upload-iframe","io-form","yui2-treeview","panel","cookie","datatable","datatable-sort","resize-plugin","dd-plugin","escape","moodle-core_filepicker","moodle-core-notification-dialogue"]},"core_comment":{"name":"core_comment","fullpath":"https:\/\/cv.upt.ro\/lib\/javascript.php\/1790575034\/comment\/comment.js","requires":["base","io-base","node","json","yui2-animation","overlay","escape"]}},"logInclude":[],"logExclude":[],"logLevel":null};
+M.yui.loader = {modules: {}};
+
+//]]>
+</script>
+<script type="importmap">{
+    "imports": {
+        "@moodle/lms/": "https://cv.upt.ro/core/esm/1790575034/@moodle/lms/",
+        "@moodlehq/design-system": "https://cv.upt.ro/core/esm/1790575034/@moodlehq/design-system",
+        "react": "https://cv.upt.ro/core/esm/1790575034/react",
+        "react/": "https://cv.upt.ro/core/esm/1790575034/react/",
+        "react-dom": "https://cv.upt.ro/core/esm/1790575034/react-dom",
+        "react-dom/": "https://cv.upt.ro/core/esm/1790575034/react-dom/"
+    }
+}</script>
+<script type="text/javascript" src="https://code.jquery.com/jquery-4.0.0.min.js"></script>
+<meta name="robots" content="noindex" /><style>#page-content { background-color: #f8f9fa; }</style>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body  id="page-login-index" class="format-site  path-login dir-ltr lang-ro yui-skin-sam yui3-skin-sam cv-upt-ro pagelayout-login course-1 context-1 notloggedin theme theme-cv26-fluid cv26-login-classic" data-nightmode="light">
+<div class="toast-wrapper mx-auto py-0 fixed-top" role="status" aria-live="polite"></div>
+
+<div id="page-wrapper">
+
+    <div>
+    <a class="visually-hidden-focusable" href="#maincontent">Sari la conţinutul principal</a>
+</div><script src="https://cv.upt.ro/lib/javascript.php/1790575034/lib/polyfills/polyfill.js"></script>
+<script src="https://cv.upt.ro/theme/yui_combo.php?rollup/3.18.1/yui-moodlesimple-min.js"></script><script src="https://cv.upt.ro/lib/javascript.php/1790575034/lib/javascript-static.js"></script>
+<script type="module">import "@moodle/lms/core/react_autoinit";</script><script>
+//<![CDATA[
+document.body.className += ' jsenabled';
+//]]>
+</script>
+
+<div class="eupopup eupopup-container eupopup-container-block eupopup-container-bottom eupopup-block eupopup-style-compact" role="dialog" aria-label="Politici utilizare site">
+    </div>
+    <div class="eupopup-markup d-none">
+        <div class="eupopup-head"></div>
+        <div class="eupopup-body">
+            Dacă continuați să navigați pe acest site, sunteți de acord cu politicile noastre:
+            <ul>
+                    <li>
+                        <a href="https://cv.upt.ro/admin/tool/policy/view.php?versionid=1&amp;returnurl=https%3A%2F%2Fcv.upt.ro%2Flogin%2Findex.php" data-action="view-guest" data-versionid="1" data-behalfid="1">
+                            Politica de confidentialitate a datelor 
+                        </a>
+                    </li>
+            </ul>
+        </div>
+        <div class="eupopup-buttons">
+            <a href="#" class="eupopup-button eupopup-button_1">Continuare</a>
+        </div>
+        <div class="clearfix"></div>
+        <a href="#" class="eupopup-closebutton">x</a>
+    </div>
+
+    <div id="page" class="mt-0">
+        <div id="page-content" class="min-vh-100 row g-0">
+            <aside class="login-layout-left col-lg-6 d-none d-lg-flex">
+                <div class="login-layout-left-content">
+                        <h1 class="h2 mb-3">Welcome to Moodle</h1>
+                        <div class="mx-auto mb-4 text-start">
+                            Your learning journey starts here. Access courses, connect with peers, and achieve your goals.
+                        </div>
+                        <p class="mx-auto mb-4">You're part of a global learning community</p>
+                        <div class="login-layout-stats">
+                            <div class="login-layout-stat">
+                                <strong class="login-layout-stat-value">500M</strong>
+                                <span>users</span>
+                            </div>
+                            <div class="login-layout-stat">
+                                <strong class="login-layout-stat-value">150K</strong>
+                                <span>sites</span>
+                            </div>
+                            <div class="login-layout-stat">
+                                <strong class="login-layout-stat-value">200+</strong>
+                                <span>countries</span>
+                            </div>
+                        </div>
+                </div>
+            </aside>
+            <div id="region-main" class="login-layout-right col-12 col-lg-6">
+                <div id="region-main-box" class="login-layout-right-content">
+                    <div class="login-container">
+                        <div role="main"><span id="maincontent" tabindex="-1"></span><div class="loginform">
+        <div id="loginlogo" class="d-flex justify-content-center mb-4">
+            <img id="logoimage" src="https://cv.upt.ro/pluginfile.php/1/theme_cv26/headerlogo/1790575034/main_logo_cvupt.png" class="img-fluid" alt="Campus Virtual"/>
+        </div>
+        <form class="login-form" action="https://cv.upt.ro/login/index.php" method="post" id="login">
+            <input id="anchor" type="hidden" name="anchor" value="">
+            <script>document.getElementById('anchor').value = location.hash;</script>
+            <input type="hidden" name="logintoken" value="pFNRgcgB6D4gaAGzH0tH3LLWN2p0fB0W">
+            <div class="login-form-username mb-3">
+                <label for="username" class="form-label visually-hidden">
+                        Nume de utilizator CVUPT
+                </label>
+                <input type="text" name="username" id="username" class="form-control" value="" placeholder="Enter your username or email" autocomplete="username">
+            </div>
+            <div class="login-form-password mb-3">
+                <label for="password" class="form-label visually-hidden">Parolă</label>
+                <input type="password" name="password" id="password" value="" class="form-control" placeholder="Enter your password" autocomplete="current-password">
+            </div>
+            <div class="login-form-submit mb-3">
+                <button class="btn btn-primary w-100" type="submit" id="loginbtn">Conectare</button>
+            </div>
+            <div class="text-end mb-3">
+                <a href="https://cv.upt.ro/login/forgot_password.php">Forgot password?</a>
+            </div>
+        </form>
+        <div class="login-separator my-5">OR</div>
+        <div class="login-identityproviders">
+                <a class="btn login-identityprovider-btn btn-outline-secondary mb-3" href="https://cv.upt.ro/auth/oauth2/login.php?id=6&amp;sesskey=BrgwNHaRee">
+                        <img src="https://cv.upt.ro/theme/cvupt/img/logo_upt_gray.png" alt="" width="24" height="24"/>
+                    Log in with UPT
+                </a>
+        </div>
+        <div class="login-languagemenu d-flex justify-content-center my-5">
+            <div class="dropdown cv26-langmenu-container d-none d-md-flex" data-region="cv26-langmenu">
+    <a href="#"
+       role="button"
+       id="cv26-langmenu-toggle"
+       class="btn dropdown-toggle icon-no-margin"
+       data-bs-toggle="dropdown"
+       aria-haspopup="true"
+       aria-expanded="false"
+       aria-label="Limbă"
+       title="Limbă"
+    >
+        <i class="icon fa fa-language" aria-hidden="true"></i>
+        <span class="cv26-langmenu-code">RO</span>
+    </a>
+    <div class="dropdown-menu dropdown-menu-end" aria-labelledby="cv26-langmenu-toggle" id="cv26-langmenu-menu" role="menu">
+                <a href="https://cv.upt.ro/login/index.php?lang=en" class="dropdown-item" role="menuitem" title="English ‎(en)‎"
+                        
+                        lang="en" >
+                    EN
+                </a>
+                <a href="#" class="dropdown-item" role="menuitem" title="Română ‎(ro)‎"
+                        aria-current="true"
+                        >
+                    RO
+                </a>
+    </div>
+</div>
+        </div>
+    <div class="login-cookiesnotice text-center">
+        <button type="button" class="btn btn-link p-0"  data-modal="alert" data-modal-title-str='["cookiesenabled", "core"]'  data-modal-content-str='["cookiesenabled_help_html", "core"]'>Informare cu privire la cookies</button>
+    </div>
+</div></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <footer id="page-footer" class="footer-popover bg-white">
+        <div data-region="footer-container-popover">
+            <button class="btn btn-icon rounded-circle bg-secondary btn-footer-popover" data-action="footer-popover" aria-label="Afișează subsolul">
+                <i class="icon fa fa-question fa-fw " aria-hidden="true" ></i>
+            </button>
+        </div>
+        <div class="footer-content-popover container" data-region="footer-content-popover">
+            <div class="footer-section p-3 border-bottom">
+                <div class="logininfo">
+                    <div class="logininfo">Nu sunteți conectat.</div>
+                </div>
+                <div class="tool_usertours-resettourcontainer">
+                </div>
+                <script type="text/javascript">/*$(document).ready(function(){
+    $(".cv26-navlinks span").remove();
+
+   $("#page-login-index #loginlogo").append("&nbsp;<img src=\"/theme/cv26/img/upt.jpg\">");
+});*/
+
+document.addEventListener("DOMContentLoaded", function () {
+  /*var loginLogo = document.querySelector("#page-login-index #loginlogo");
+  if (loginLogo) {
+    loginLogo.insertAdjacentHTML("beforeend", "&nbsp;<img src=\"/theme/cv26/img/upt.jpg\">");
+  }*/
+
+  document.querySelectorAll(".cv26-navlinks span").forEach(function (el) {
+    el.remove();
+  });
+
+  $('.login-languagemenu').after('<div class="login-divider"></div><div style="text-align: center;"><div class="img-container"><a href="https://play.google.com/store/apps/details?id=ro.upt.campusvirtual" target="_blank" title="CVUPT Android App" alt="CVUPT Android App"><img src="https://cv.upt.ro/cv2025/theme/cv23/pix/googleplay_login.png" width="139" height="40"></a>&nbsp;&nbsp;<a href="https://itunes.apple.com/us/app/campus-virtual-upt/id1397170074?l=ro&ls=1&mt=8" target="_blank" title="CVUPT iOS App" alt="CVUPT iOS App"><img src="https://cv.upt.ro/cv2025/theme/cv23/pix/appstore_login.png" width="139" height="40"></a></div><div class="img-container" style="margin-top: 20px;"><a href="https://suport.elearning.upt.ro" target="_blank" class="btn btn-danger btn-sm mx-0" style="background-color: #0A2E7C;"><i class="fa fa-suitcase-medical"></i>&nbsp;Suport</a>&nbsp;&nbsp;<a href="https://elearning.upt.ro/ro/campus-virtual/" target="_blank" class="btn btn-warning btn-sm mx-0" style="background-color: #0A2E7C;">&nbsp;&nbsp;<i class="fa fa-circle-info"></i>&nbsp;Info&nbsp;&nbsp;</a></div></div>');
+});</script>
+        <script>
+        (function() {
+            var NIGHT_START_HOUR = 20;
+            var NIGHT_END_HOUR = 7;
+
+            // Must match theme_cv26\output\core_renderer::FONTSIZE_CLASSES /
+            // FONTSIZE_PERCENTAGES on the server.
+            var FONTSIZE_MIN = -1;
+            var FONTSIZE_MAX = 3;
+            var FONTSIZE_CLASSES = {
+                '-1': 'theme-cv26-fontsize-sm',
+                '0': null,
+                '1': 'theme-cv26-fontsize-lg',
+                '2': 'theme-cv26-fontsize-xl',
+                '3': 'theme-cv26-fontsize-xxl'
+            };
+            var FONTSIZE_PERCENTAGES = {'-1': 87, '0': 100, '1': 112, '2': 125, '3': 137};
+
+            // A cookie is set synchronously and read server-side as a fallback,
+            // so choices survive a reload even for guests or if the
+            // core_user/repository AJAX save below fails. Logged-in users also
+            // get a real user preference saved, which takes priority once it
+            // exists (see theme_cv26 core_renderer::body_attributes()).
+            var setCookie = function(name, value) {
+                var expires = new Date(Date.now() + 365 * 24 * 60 * 60 * 1000).toUTCString();
+                document.cookie = name + '=' + value + '; expires=' + expires + '; path=/; SameSite=Lax';
+            };
+            var saveUserPreference = function(name, value) {
+                require(['core_user/repository'], function(UserRepository) {
+                    UserRepository.setUserPreference(name, value).catch(function() {
+                        // Ignore failures (e.g. guest sessions); the cookie above already covers this case.
+                    });
+                });
+            };
+
+            var computeAutoIsDark = function() {
+                var hour = new Date().getHours();
+                // Must match theme_cv26\output\core_renderer::hour_is_night()
+                // on the server — handles both an overnight window (e.g. the
+                // 20-7 default) and a same-day one (e.g. 1-5) the same way.
+                if (NIGHT_START_HOUR === NIGHT_END_HOUR) {
+                    return false;
+                }
+                if (NIGHT_START_HOUR < NIGHT_END_HOUR) {
+                    return (hour >= NIGHT_START_HOUR && hour < NIGHT_END_HOUR);
+                }
+                return (hour >= NIGHT_START_HOUR || hour < NIGHT_END_HOUR);
+            };
+
+            var autoIntervalId = null;
+            var ensureAutoRecheck = function() {
+                if (autoIntervalId !== null) {
+                    return;
+                }
+                // Re-evaluate periodically so a tab left open overnight still flips
+                // automatically at the day/night boundary, without a page reload.
+                autoIntervalId = setInterval(function() {
+                    if (document.body.getAttribute('data-nightmode') === 'auto') {
+                        document.body.classList.toggle('dark-mode', computeAutoIsDark());
+                    }
+                }, 15 * 60 * 1000);
+            };
+
+            // TinyMCE (editor_tiny) renders the actual typing area inside its
+            // own <iframe>, a completely separate document our theme's CSS
+            // never reaches — so dark mode there needs its own small
+            // stylesheet injected directly into each editor's iframe
+            // document, kept in sync with the 'dark-mode' body class.
+            var TINY_IFRAME_SELECTOR = 'iframe.tox-edit-area__iframe';
+            var TINY_STYLE_ID = 'cv26-tinymce-dark-mode';
+            // Background/text colours match the theme_cv26/darkbg*+darktext
+            // settings (same values post.scss's $cv26-dark-* Sass variables
+            // resolve to — see core_renderer::get_dark_colors()); the
+            // remaining accent/border colours here aren't part of that
+            // admin-configurable palette, same as their post.scss counterparts.
+            var TINY_DARK_CSS = 'body{background-color:#1e1e1e!important;color:#e0e0e0!important}'
+                + 'a{color:#8ab4f8!important}'
+                + 'table td,table th{border-color:#444!important}'
+                + 'hr{border-color:#444!important}'
+                + 'blockquote{border-color:#444!important;color:#c0c0c0!important}'
+                + 'pre,code{background-color:#2a2a2a!important;color:#e0e0e0!important}';
+
+            var applyTinyIframeDarkMode = function(iframe, isDark) {
+                var doc = iframe.contentDocument;
+                if (!doc || !doc.head) {
+                    // Still the initial 'about:blank' document, or cross-origin
+                    // (shouldn't happen for a same-site editor) — the 'load'
+                    // listener registered by watchTinyIframe() will retry once
+                    // TinyMCE has actually written its real document into it.
+                    return;
+                }
+                var style = doc.getElementById(TINY_STYLE_ID);
+                if (isDark) {
+                    if (!style) {
+                        style = doc.createElement('style');
+                        style.id = TINY_STYLE_ID;
+                        doc.head.appendChild(style);
+                    }
+                    style.textContent = TINY_DARK_CSS;
+                } else if (style) {
+                    style.remove();
+                }
+            };
+
+            var isDarkModeActive = function() {
+                return document.body.classList.contains('dark-mode');
+            };
+
+            var applyTinyMceDarkMode = function() {
+                var isDark = isDarkModeActive();
+                document.querySelectorAll(TINY_IFRAME_SELECTOR).forEach(function(iframe) {
+                    applyTinyIframeDarkMode(iframe, isDark);
+                });
+            };
+
+            // TinyMCE (re)writes its iframe's document from scratch on init,
+            // firing a real 'load' event once that's done — existing editors
+            // at DOMContentLoaded may already be past that point (handled by
+            // the immediate call in applyTinyMceDarkMode() below), but
+            // editors created later (AJAX-loaded forms, modals, 'Add
+            // discussion topic', ...) need this to catch their iframe's load.
+            var watchTinyIframe = function(iframe) {
+                if (iframe.dataset.cv26DarkModeWatched) {
+                    return;
+                }
+                iframe.dataset.cv26DarkModeWatched = '1';
+                iframe.addEventListener('load', function() {
+                    applyTinyIframeDarkMode(iframe, isDarkModeActive());
+                });
+            };
+
+            var tinyObserver = new MutationObserver(function(mutations) {
+                mutations.forEach(function(mutation) {
+                    mutation.addedNodes.forEach(function(node) {
+                        if (node.nodeType !== 1) {
+                            return;
+                        }
+                        if (node.matches && node.matches(TINY_IFRAME_SELECTOR)) {
+                            watchTinyIframe(node);
+                        }
+                        // This observer watches the whole document (TinyMCE
+                        // editors can appear anywhere — forum posts, feedback
+                        // forms, ...), so it sees every element inserted on
+                        // the page, not just editor-related ones; skip the
+                        // subtree walk below for childless nodes, which can't
+                        // possibly contain a nested iframe.
+                        if (node.children && node.children.length && node.querySelectorAll) {
+                            node.querySelectorAll(TINY_IFRAME_SELECTOR).forEach(watchTinyIframe);
+                        }
+                    });
+                });
+            });
+
+            var applyNightMode = function(mode) {
+                var isDark = (mode === 'night') || (mode === 'auto' && computeAutoIsDark());
+                document.body.classList.toggle('dark-mode', isDark);
+                document.body.setAttribute('data-nightmode', mode);
+                if (mode === 'auto') {
+                    ensureAutoRecheck();
+                }
+                applyTinyMceDarkMode();
+            };
+
+            var updateActiveNightModeItem = function(mode) {
+                // The 3 options are a segmented btn-group switch (mutually exclusive
+                // toggle buttons), so aria-pressed is the correct state attribute here,
+                // not aria-current (which is for links to other views/pages).
+                document.querySelectorAll('[data-nightmode-option]').forEach(function(item) {
+                    var isactive = item.getAttribute('data-nightmode-option') === mode;
+                    item.classList.toggle('active', isactive);
+                    item.setAttribute('aria-pressed', isactive ? 'true' : 'false');
+                });
+            };
+
+            var getFontSizeStep = function() {
+                for (var step = FONTSIZE_MIN; step <= FONTSIZE_MAX; step++) {
+                    var cls = FONTSIZE_CLASSES[step];
+                    if (cls && document.documentElement.classList.contains(cls)) {
+                        return step;
+                    }
+                }
+                return 0;
+            };
+
+            var updateFontSizeControls = function(step) {
+                document.querySelectorAll('[data-region="cv26-fontsize-value"]').forEach(function(el) {
+                    el.textContent = FONTSIZE_PERCENTAGES[step] + '%';
+                });
+                document.querySelectorAll('[data-fontsize-action="decrease"]').forEach(function(el) {
+                    el.disabled = (step <= FONTSIZE_MIN);
+                });
+                document.querySelectorAll('[data-fontsize-action="increase"]').forEach(function(el) {
+                    el.disabled = (step >= FONTSIZE_MAX);
+                });
+            };
+
+            var applyFontSize = function(step) {
+                step = Math.max(FONTSIZE_MIN, Math.min(FONTSIZE_MAX, step));
+                Object.keys(FONTSIZE_CLASSES).forEach(function(key) {
+                    if (FONTSIZE_CLASSES[key]) {
+                        document.documentElement.classList.remove(FONTSIZE_CLASSES[key]);
+                    }
+                });
+                if (FONTSIZE_CLASSES[step]) {
+                    document.documentElement.classList.add(FONTSIZE_CLASSES[step]);
+                }
+                updateFontSizeControls(step);
+                setCookie('theme_cv26_fontsize', String(step));
+                saveUserPreference('theme_cv26_fontsize', String(step));
+            };
+
+            // The user menu (core/user_menu, built server-side by
+            // core\navigation\output\primary::get_user_menu()) always adds its
+            // own "Language" submenu for logged-in users, regardless of theme —
+            // there's no PHP-level hook to identify it directly (its trigger is
+            // just another item in the same array as everything else). Now that
+            // theme_cv26\output\core_renderer::render_langmenu() gives every
+            // user (not just guests) a language switcher of its own next to the
+            // style menu, this one is only needed on mobile, where that navbar
+            // switcher is hidden for lack of room (see theme_cv26/langmenu) — so
+            // tag its trigger link (a ".carousel-navigation-link", identified by
+            // which carousel panel it points at) with a class post.scss uses to
+            // hide it at md+ only, rather than removing it outright.
+            var tagUserMenuLanguageSubmenuTrigger = function() {
+                var LANGUAGE_SUBMENU_LABEL = "Selector limb\u0103";
+                document.querySelectorAll('.usermenu .carousel-navigation-link[data-carousel-target-id]').forEach(function(trigger) {
+                    var panel = document.getElementById(trigger.getAttribute('data-carousel-target-id'));
+                    if (panel && panel.getAttribute('aria-label') === LANGUAGE_SUBMENU_LABEL) {
+                        trigger.classList.add('cv26-usermenu-langsubmenu-trigger');
+                    }
+                });
+            };
+
+            document.addEventListener('DOMContentLoaded', function() {
+                tagUserMenuLanguageSubmenuTrigger();
+
+                // Correct the server-rendered guess (based on the user's profile/site
+                // timezone) with the browser's actual local time, and start the
+                // periodic recheck if the saved mode is 'auto'.
+                var currentMode = document.body.getAttribute('data-nightmode') || 'light';
+                if (currentMode === 'auto') {
+                    applyNightMode('auto');
+                }
+
+                // Keep the menu's displayed percentage/disabled state in sync with
+                // whatever step the server actually rendered on <html>.
+                updateFontSizeControls(getFontSizeStep());
+
+                document.querySelectorAll(TINY_IFRAME_SELECTOR).forEach(watchTinyIframe);
+                applyTinyMceDarkMode();
+                tinyObserver.observe(document.body, {childList: true, subtree: true});
+
+                document.body.addEventListener('click', function(e) {
+                    var nightOption = e.target.closest('[data-nightmode-option]');
+                    if (nightOption) {
+                        e.preventDefault();
+                        var mode = nightOption.getAttribute('data-nightmode-option');
+                        applyNightMode(mode);
+                        updateActiveNightModeItem(mode);
+                        setCookie('theme_cv26_nightmode', mode);
+                        saveUserPreference('theme_cv26_nightmode', mode);
+                    }
+
+                    var widthToggle = e.target.closest('[data-action="toggle-width"]');
+                    if (widthToggle) {
+                        e.preventDefault();
+                        var isFluid = document.body.classList.toggle('theme-cv26-fluid');
+                        setCookie('theme_cv26_fluidwidth', isFluid ? '1' : '0');
+                        saveUserPreference('theme_cv26_fluidwidth', isFluid ? '1' : '0');
+                    }
+
+                    var fontSizeAction = e.target.closest('[data-fontsize-action]');
+                    if (fontSizeAction && !fontSizeAction.disabled) {
+                        e.preventDefault();
+                        var action = fontSizeAction.getAttribute('data-fontsize-action');
+                        var current = getFontSizeStep();
+                        var next = current;
+                        if (action === 'decrease') {
+                            next = current - 1;
+                        } else if (action === 'increase') {
+                            next = current + 1;
+                        } else if (action === 'reset') {
+                            next = 0;
+                        }
+                        applyFontSize(next);
+                    }
+
+                    var highContrastToggle = e.target.closest('[data-action="toggle-highcontrast"]');
+                    if (highContrastToggle) {
+                        e.preventDefault();
+                        var isHighContrast = document.body.classList.toggle('theme-cv26-highcontrast');
+                        setCookie('theme_cv26_highcontrast', isHighContrast ? '1' : '0');
+                        saveUserPreference('theme_cv26_highcontrast', isHighContrast ? '1' : '0');
+                    }
+
+                });
+
+                // The course index / blocks drawer toggles stay visible and
+                // in place (rather than disappearing, like Boost's default)
+                // once their drawer is open — see post.scss. Bootstrap's
+                // tooltip on them needs hiding once that happens; Boost's own
+                // theme_boost/drawers.js disable/enable-tooltip helpers
+                // (disableButtonTooltip()/enableButtonTooltip()) try to do
+                // this but read/write "button.dataset.toggle", when the real
+                // attribute is "data-bs-toggle" (=> "button.dataset.bsToggle"
+                // in the DOM dataset API) — that mismatch means they strip the
+                // real "data-bs-toggle" attribute without ever calling the
+                // real Tooltip.disable() (a second dead code path, guarded by
+                // an equally-wrong "data-original-title" check), so the
+                // tooltip is never actually disabled, just hidden for a
+                // moment. Both openDrawer() and closeDrawer() then
+                // programmatically re-focus a toggle button ~300ms later, as
+                // keyboard-accessibility behaviour (returning focus to the
+                // control that opened/closes the drawer) — and since the
+                // tooltip's default trigger is "hover focus", that focus()
+                // call alone pops it back up with no real mouse hover
+                // involved.
+                //
+                // Listening for clicks on the toggle isn't enough to catch
+                // every case: theme_boost/drawers.js also closes the *other*
+                // drawer for you on small screens when one is opened
+                // ("Drawers.closeOtherDrawers"), running that same broken
+                // close/re-focus sequence on a button that was never clicked
+                // or hovered at all. Listening for Boost's own "drawer
+                // shown"/"hidden" events instead — which fire for every
+                // drawer state change regardless of what caused it — and
+                // sweeping both toggle buttons each time covers that case
+                // too. Work around it with the real API instead of Boost's
+                // broken wrapper: hide each tooltip, disable it (blocking
+                // both the hover AND focus triggers, unlike Boost's no-op),
+                // then re-enable after a delay comfortably past that ~300ms
+                // re-focus, so normal hovering keeps working afterwards.
+                var settleDrawerToggleTooltips = function() {
+                    require(['theme_boost/bootstrap/tooltip'], function(Tooltip) {
+                        document.querySelectorAll('.drawer-toggler .btn').forEach(function(btn) {
+                            var instance = Tooltip.getOrCreateInstance(btn);
+                            instance.hide();
+                            instance.disable();
+                            setTimeout(function() {
+                                instance.enable();
+                            }, 500);
+                        });
+                    });
+                };
+                document.addEventListener('theme_boost/drawers:shown', settleDrawerToggleTooltips);
+                document.addEventListener('theme_boost/drawers:hidden', settleDrawerToggleTooltips);
+            });
+        })();
+        </script><div class="tool_dataprivacy"><a href="https://cv.upt.ro/admin/tool/dataprivacy/summary.php">Rezumatul păstrării datelor</a></div><div class="policiesfooter"><a href="https://cv.upt.ro/admin/tool/policy/viewall.php?returnurl=https%3A%2F%2Fcv.upt.ro%2Flogin%2Findex.php">Politici utilizare site</a></div>
+                <script>
+//<![CDATA[
+var require = {
+    baseUrl : 'https://cv.upt.ro/lib/requirejs.php/1790575034/',
+    // We only support AMD modules with an explicit define() statement.
+    enforceDefine: true,
+    skipDataMain: true,
+    waitSeconds : 0,
+
+    paths: {
+        jquery: 'https://cv.upt.ro/lib/javascript.php/1790575034/lib/jquery/jquery-3.7.1.min',
+        jqueryui: 'https://cv.upt.ro/lib/javascript.php/1790575034/lib/jquery/ui-1.14.1/jquery-ui.min',
+        jqueryprivate: 'https://cv.upt.ro/lib/javascript.php/1790575034/lib/requirejs/jquery-private'
+    },
+
+    // Custom jquery config map.
+    map: {
+      // '*' means all modules will get 'jqueryprivate'
+      // for their 'jquery' dependency.
+      '*': { jquery: 'jqueryprivate' },
+
+      // 'jquery-private' wants the real jQuery module
+      // though. If this line was not here, there would
+      // be an unresolvable cyclic dependency.
+      jqueryprivate: { jquery: 'jquery' }
+    }
+};
+
+//]]>
+</script>
+<script src="https://cv.upt.ro/lib/javascript.php/1790575034/lib/requirejs/require.min.js"></script>
+<script>
+//<![CDATA[
+M.util.js_pending("core/first");
+require(['core/first'], function() {
+require(['core/prefetch'])
+;
+M.util.js_pending('filter_mathjaxloader/loader'); require(['filter_mathjaxloader/loader'], function(amd) {amd.configure({"mathjaxurl":"https:\/\/cdn.jsdelivr.net\/npm\/mathjax@4.0.0\/tex-mml-chtml.js","mathjaxconfig":"","lang":"en"}); M.util.js_complete('filter_mathjaxloader/loader');});;
+require(["media_videojs/loader"], function(loader) {
+    loader.setUp('ro');
+});;
+
+        require(['jquery', 'tool_policy/jquery-eu-cookie-law-popup', 'tool_policy/policyactions'], function($, Popup, ActionsMod) {
+            // Initialise the guest popup.
+            $(document).ready(function() {
+                // Initialize popup.
+                $(document.body).addClass('eupopup');
+                if ($(".eupopup").length > 0) {
+                    $(document).euCookieLawPopup().init();
+                }
+
+                // Initialise the JS for the modal window which displays the policy versions.
+                ActionsMod.init('[data-action="view-guest"]');
+            });
+        });
+    ;
+
+require([
+    'theme_boost/footer-popover',
+    'core/copy_to_clipboard',
+], function(FooterPopover) {
+    FooterPopover.init();
+});
+;
+
+M.util.js_pending('theme_boost/loader');
+require(['theme_boost/loader'], function() {
+  M.util.js_complete('theme_boost/loader');
+});
+;
+
+    require(['core/pending'], function(Pending) {
+        const errorMessageDiv = document.getElementById('loginerrormessage');
+        const infoMessageDiv = document.getElementById('logininfomessage');
+        const errorMessage = errorMessageDiv?.textContent.trim();
+        const infoMessage = infoMessageDiv?.textContent.trim();
+        if (errorMessage || infoMessage) {
+            const pendingJS = new Pending('login-move-focus');
+            const usernameField = document.getElementById('username');
+            setTimeout(function() {
+                if (errorMessage && usernameField) {
+                    usernameField.focus();
+                }
+                if (errorMessage) {
+                    errorMessageDiv.innerHTML += "&nbsp;";
+                }
+                if (infoMessage) {
+                    infoMessageDiv.innerHTML += "&nbsp;";
+                }
+                pendingJS.resolve();
+            }, 500);
+        }
+    });
+        require(['core/togglesensitive'], function(ToggleSensitive) {
+            ToggleSensitive.init("password", 1);
+        });
+    require(['core_form/submit'], function(Submit) {
+        Submit.init("loginbtn");
+    });
+;
+M.util.js_pending('core/notification'); require(['core/notification'], function(amd) {amd.init(1, []); M.util.js_complete('core/notification');});;
+M.util.js_pending('core/log'); require(['core/log'], function(amd) {amd.setConfig({"level":"warn"}); M.util.js_complete('core/log');});;
+M.util.js_pending('core/page_global'); require(['core/page_global'], function(amd) {amd.init(); M.util.js_complete('core/page_global');});;
+M.util.js_pending('core/utility'); require(['core/utility'], function(amd) {M.util.js_complete('core/utility');});;
+M.util.js_pending('core/storage_validation'); require(['core/storage_validation'], function(amd) {amd.init(null); M.util.js_complete('core/storage_validation');});
+    M.util.js_complete("core/first");
+});
+//]]>
+</script>
+<script>
+//<![CDATA[
+M.str = {"moodle":{"lastmodified":"Ultima modificare","name":"Nume","error":"Eroare","info":"Informa\u021bii","yes":"Da","no":"Nu","cancel":"Anulare","confirm":"Confirm\u0103","areyousure":"Sunte\u021bi sigur?","closebuttontitle":"\u00cenchide","unknownerror":"Eroare necunoscut\u0103","file":"Fi\u0219ier","url":"URL","collapseall":"Restr\u00e2nge toate sec\u021biunile","expandall":"Extinde toate sec\u021biunile"},"repository":{"type":"Tip","size":"Dimensiune","invalidjson":"\u0218ir de caractere JSON invalid","nofilesattached":"Nu exist\u0103 fi\u0219iere ata\u0219ate","filepicker":"Selector de fi\u0219iere","logout":"Logout","nofilesavailable":"Nu exista fisiere disponibile","norepositoriesavailable":"Ne pare r\u0103u, niciunul dintre depozitele dumneavoastr\u0103 curente nu pot returna fi\u0219iere \u00een formatul cerut.","fileexistsdialogheader":"Fi\u0219ierul exist\u0103","fileexistsdialog_editor":"Un fi\u0219ier cu acest nume a fost deja ata\u0219at textului pe care \u00eel edita\u021bi","fileexistsdialog_filemanager":"Un fi\u0219ier cu acest nume a fost deja ata\u0219at.","renameto":"Redenumi\u021bi ca \"{$a}\"","referencesexist":"Exist\u0103 {$a} link-uri c\u0103tre acest fi\u0219ier.","select":"Selectare","invalidfiletypetitle":"File type not accepted"},"admin":{"confirmdeletecomments":"E\u0219ti sigur c\u0103 vrei s\u0103 \u0219tergi comentariul (comentariile) selectate?","confirmation":"Confirmare"},"debug":{"debuginfo":"Informa\u021bii despre depanare","line":"Linie","stacktrace":"Urm\u0103 de stiv\u0103"},"langconfig":{"labelsep":":"}};
+//]]>
+</script>
+<script>
+//<![CDATA[
+(function() {M.util.help_popups.setup(Y);
+ M.util.js_pending('random6abaa8fbcdad24'); Y.on('domready', function() { M.util.js_complete("init");  M.util.js_complete('random6abaa8fbcdad24'); });
+})();
+//]]>
+</script>
+
+            </div>
+            <div class="footer-section p-3">
+                <div>Furnizat de <a href="https://moodle.com">Moodle</a></div>
+            </div>
+        </div>
+    
+        <div class="footer-content-debugging footer-dark bg-dark text-light">
+            <div class="container-fluid footer-dark-inner">
+                
+            </div>
+        </div>
+    </footer>
+</div>
+
+
+</body></html>

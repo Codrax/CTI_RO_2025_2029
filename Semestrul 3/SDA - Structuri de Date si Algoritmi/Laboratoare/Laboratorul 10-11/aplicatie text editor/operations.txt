@@ -1,0 +1,16 @@
+OPEN file1.txt
+PRINT file1.txt
+
+WRITE file1.txt 5 12345
+PRINT file1.txt
+
+DELETE file1.txt 20 7
+PRINT file1.txt
+
+
+WRITE file1.txt 100 *******
+PRINT file1.txt
+
+SAVEAS file1.txt ceva.txt
+
+PRINT file1.txt

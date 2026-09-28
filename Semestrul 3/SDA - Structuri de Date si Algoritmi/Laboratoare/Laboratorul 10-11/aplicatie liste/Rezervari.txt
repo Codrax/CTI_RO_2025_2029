@@ -1,0 +1,9 @@
+5
+101 Ionescu Ion
+201 Vasilescu Vasile
+501 Gheorghescu Gheorghescu
+301 Popescu Ana
+3
+101
+501
+301

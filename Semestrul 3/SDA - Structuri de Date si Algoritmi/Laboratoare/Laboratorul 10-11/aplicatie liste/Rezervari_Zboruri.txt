@@ -1,0 +1,20 @@
+3
+1001	Timisoara	Milano
+2001	Arad	Bucuresti
+3001	Timisoara	Paris
+10
+1001	101	Ionescu Ion
+1001	201	Vasilescu Vasile
+2001	501	Gheorghescu Gheorghescu
+1001	301	Popescu Ana
+3001 	701 	Ionescu Ion
+2001	801 	Vasilescu Vasile
+1001	901	Mihailescu Mihai
+1001	707	Popescu Ana
+2001	401	Mihailescu Mihai
+3001	607	Popescu Ana
+3
+101
+501
+301
+

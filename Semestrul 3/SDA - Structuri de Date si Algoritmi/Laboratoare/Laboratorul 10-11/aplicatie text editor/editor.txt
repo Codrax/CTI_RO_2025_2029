@@ -1,0 +1,18 @@
+Sa se creeze un (simulator de) editor de text. Se vor deschide fisiere text, se vor putea afisa si se vor inchide, eventual salva cu alt nume.
+
+Se va da un fisier "operations.txt" care contine operatiile facute de utilizator. (Daca se doreste ulterior citire de la tastatura, in loc de f = fopen(operations.txt) se va pune f = stdin.) Operatiile pot fi:
+
+OPEN <filename>
+	deschide un fisier
+WRITE <filename> <index> <word>
+	scrie (insereaza) cuvantul <word> la indexul <index> in text. <word> nu contine spatii
+DELETE <filename> <index> <count>
+	sterge <count> caractere incepand de la <index>
+PRINT <filename>
+	printeaza numele fisierului si continutul fisierului
+SAVEAS <filename> <newfile>
+	inchide(elimina din lista) si salveaza fisierul <filename> ca si alt fisier numit <newname>
+
+Fisierele deschise se vor salva intr-o lista simplu inlantuita. Elementele contin filename si textul din fisier intr-un char[4096]. Fisierele de pe disc se vor deschide, citi si inchide imediat. Se presupune ca fisierele sunt mai mici decat 4096 bytes(nu mai trebuie verificat).
+
+Nu uitati de free(), fclose(), etc;

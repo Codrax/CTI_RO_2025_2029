@@ -1,0 +1,42 @@
+Un robot se deplaseaza printr-un labirint. Labirintul este dat intr-un fisier si este de forma unei matrici patrate. Matricea poate fi de maxim 20x20 si minim 2x2. Robotul nu poate iesi peste limitele labirintului.
+Robotul are o baterie care se consuma la fiecare pas. Dupa ce robotul face un pas, bateria i se va decrementa cu 1. Daca bateria ajunge la 0, robotul nu se mai poate deplasa. Daca a ajuns la destinatie totusi e ok. In labirint exista power-ups/baterii cu care se poate incarca.
+In labirint exista si teleportatoare. O data ce robotul a calcat pe un teleportator(si a decrementat bateria) el va ajunge imediat in partea cealalta fara a mai consuma energie. 
+Robotul are bateria initala 5. Cu powerups bateria poate ajunge la orice valoare.
+Robotul nu poate trece de 2 ori prin acelasi loc.
+
+
+'.' denota un spatiu in care robotul poate merge.
+'*' denota un perete.
+'S' este positia de pornire
+'E' este pozitia destinatie
+'+' este o baterie care incarca robotul cu 10 unitati.
+perechi de cifre reprezinta teleportatoare.
+
+Exemple(cu matrici mai mici):
+
+S.............E
+Aici robotul nu are suficienta baterie pentru a ajunge la destinatie.
+
+.......S.....E
+....+.........
+Aici robotul va trebui sa se duca dupa baterie inainte de a putea ajunge la destinatie.
+
+
+..S...1*.1.*.E
+....0..*...*0.
+Aici robotul are exact suficienta baterie pentru a ajunge la destinatie.
+
+
+
+
+Sa se determine cel mai scurt drum pe care robotul il poate parcurge(scurt = cele mai putine casute calcate, la teleportare se numara amandoua). Daca nu se poate ajunge sa se scrie in fisier un mesaj.
+
+Daca se determina doar un drum(nu cel mai scurt) nota maxima e cu 2 puncte mai putin.
+Folosirea (corecta) teleportatoarelor valoreaza 2 puncte.
+Manageuirea bateriei valoreaza 2 puncte.
+
+Solutia se va afisa in felul urmator:
+Intr-un fisier, rez.txt, se va pune o matrice care corespunde celei originale, dar se vor trece doar '#' pe unde a trecut robotul si '.' pe unde nu a trecut.
+
+
+

@@ -1,0 +1,59 @@
+Sa se creeze un (simulator de) editor de text. Se vor deschide fisiere text, se vor putea afisa si se vor inchide, eventual salva cu alt nume.
+
+Se va da un fisier "operations.txt" care contine operatiile facute de utilizator. (Daca se doreste ulterior citire de la tastatura, in loc de f = fopen(operations.txt) se va pune f = stdin.) Operatiile pot fi:
+
+OPEN <filename>
+	deschide un fisier
+WRITE <filename> <index> <word>
+	scrie (insereaza) cuvantul <word> la indexul <index> in text. <word> nu contine spatii
+DELETE <filename> <index> <count>
+	sterge <count> caractere incepand de la <index>
+PRINT <filename>
+	printeaza numele fisierului si continutul fisierului
+SAVEAS <filename> <newfile>
+	inchide(elimina din lista) si salveaza fisierul <filename> ca si alt fisier numit <newname>
+
+Fisierele deschise se vor salva intr-o lista simplu inlantuita. Elementele contin filename si textul din fisier intr-un char[4096]. Fisierele de pe disc se vor deschide, citi si inchide imediat. Se presupune ca fisierele sunt mai mici decat 4096 bytes(nu mai trebuie verificat).
+
+Nu uitati de free(), fclose(), etc;
+
+---------------------------
+Sa se adauge functionalitatea de UNDO/REDO (istoric de modificari), HISTORY si REPLACE prin noi operatii
+UNDO <filename>
+	anuleaza o actiune
+REDO <filename>
+	redo o face inapoi
+	
+	- daca la un moment dat se dau mai multe UNDO, iar dupa aceea se face o modificare, se vor pierde modificarile de pe "ramura" de REDO
+
+
+
+In acest scop se va crea o lista dublu inlantuita cu modificarile efectuate:
+	elementul listei va contine: operatia efectuata(enum: WRITE DELETE NONE), cuvantul sters, indexul la care a fost adaugat/sters, lungimea cuvantului
+	lista va avea in permanenta exact un element de tipul NONE, astfel incat lista nu ar trebui sa fie goala niciodata.
+	in lista se aduga una dupa celalata modificarile efectuate
+	sa se tina cont de functionarea descrisa mai sus (modificare dupa UNDO)
+
+Fiecare fisier din lista originala va tine minte un singur pointer la modificare si acesta va pointa catre modificarea curenta.
+De ex:
+	plec de la "ana are mere"
+	scriu "si zprune"  => "ana are mere si zprune"
+	sterg "z"  => "ana are mere si prune"
+	scriu "multe" =>  "ana are mere si multe prune"
+	UNDO => "ana are mere si prune"
+		acum lista de modificari are in continuare 4 elemente(3 modificari+elementul NONE), dar pointerul din structura fisier va pointa catre al treilea element (sterg "z")
+	scriu "cateva" => "ana are mere si cateva prune"
+		modificarea cu "multe" a fost elimiata din lista. am adaugat in lista modificarea cu "cateva" si acum pointerul din structura fisier va pointa catre aceasta ultima modificare
+		
+
+HISTORY <filename>
+	afiseaza continutul listei de modificari. La modificarea curenta selectata din structura fisier sa se afiseze distinct (o steluta, colorat, un !, etc.)
+	
+REPLACE <filename> <what> <with>
+	foloseste Boyer-Moore sau KMP; inlocuieste aparitiile lui <what> cu <with>. In istoricul modificarilor se pune fiecare inlocuire ca un DELETE urmat de un WRITE. 
+	
+	
+	
+	
+	
+	
