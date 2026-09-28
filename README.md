@@ -22,20 +22,20 @@ Subiectele se schimba de la an la an, asadar examenele puse aici si pe alte most
 # Plan de învățământ
 Planul de învățământ pentru **Seria D**
 
-### 2025-2026 - Semestrul 1 (CTI)
+### 2025-2026 - Semestrul 1 (CTI - Seria D & partial C)
 |         Examen       |                   Discipline (**obligatorii**)                                                                      |  Forma evaluare   | Crd. |               Curs                |    Laborator/Seminar      |
 | :------------------: | :-----------------------------------------------------------------------------------------------------------------: | :---------------: | :--: | :-------------------------------: | :-----------------------: |
 |          DF          | [AM - Analiza Matematica](Semestrul%201/AM%20-%20Analiza%20Matematica)                                              |   E               |  4   | Adina Juratoni                    |  Adina Juratoni           |
 |          DF          | [ET - Electrotehnica](Semestrul%201/ET%20-%20Electrotehnica)                                                        |   V               |  4   | Ildiko Tatai                      | Ilie Simona               |
-|          DF          | [LSD - Logica si Structuri Discrete](Semestrul%201/LSD%20-%20Logica%20si%20Structuri%20Discrete])                   |   E               |  5   | Catalin Iapa                      |                           |
+|          DF          | [LSD - Logica si Structuri Discrete](Semestrul%201/LSD%20-%20Logica%20si%20Structuri%20Discrete)                    |   E               |  5   | Catalin Iapa                      |                           |
 |          DF          | [AG - Algebra si Geometrie](Semestrul%201/AG%20-%20Algebra%20si%20Geometrie)                                        |   V               |  5   | Eckstein Andrei                   |                           |
 |          DF          | [PC - Programarea Calculatoarelor](Semestrul%201/PC%20-%20Programarea%20Calculatoarelor)                            |   E               |  6   | Stângaciu Valentin                | Csereoka Petra            |
-|          DF          | [F Fizica](Semestrul%201/F-%20-%20Fizica)                                                                           |   E               |  4   | Trif-Tordai Delia                 | Trif-Tordai Delia         |
+|          DF          | [F Fizica](Semestrul%201/F%20-%20Fizica)                                                                           |   E               |  4   | Trif-Tordai Delia                 | Trif-Tordai Delia         |
 |          DC          | Educatie fizica si Sport                                                                                            |   V               |  1   |                                   |                           |
 |          DC          | Limba straina                                                                                                       |   V               |  2   |                                   |                           |
 |                      | Total                                                                                                               |                   |  31  |                                   |                           |
 
-### 2025-2026 - Semestrul 2 (CTI)
+### 2025-2026 - Semestrul 2 (CTI - Seria D & partial C)
 |         Examen       |                   Discipline (**obligatorii**)                                                                      |  Forma evaluare   | Crd. |               Curs                |    Laborator/Seminar      |
 | :------------------: | :-----------------------------------------------------------------------------------------------------------------: | :---------------: | :--: | :-------------------------------: | :-----------------------: |
 |          DF          | [MAC - Matematici Asistate de Calculator](Semestrul%202/MAC%20-%20Matematici%20asistate%20de%20calculator)          |   V               |  5   | Calin-Adrian Popa                 |                           |
@@ -47,7 +47,7 @@ Planul de învățământ pentru **Seria D**
 |          DC          | Limba Straina 2                                                                                                     |   V               |  1   |                                   |                           |
 |                      | Total                                                                                                               |                   |  33  |                                   |                           |
 
-### 2026-2027 - Semestrul 3 (C/TI)
+### 2026-2027 - Semestrul 3 (C & partial TI)
 |         Examen       |                   Discipline (**obligatorii**)                                                                      |  Forma evaluare   | Crd. |               Curs                |    Laborator/Seminar      |
 | :------------------: | :-----------------------------------------------------------------------------------------------------------------: | :---------------: | :--: | :-------------------------------: | :-----------------------: |
 |          DF          | [RC - Retele de Calculatoare](Semestrul%203/RC%20-%20Retele%20de%20Calculatoare)                                    |   V               |  4   | Opritoriu?                        |                           |
