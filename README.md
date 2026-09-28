@@ -20,7 +20,6 @@ ms!! :)
 Subiectele se schimba de la an la an, asadar examenele puse aici si pe alte mosteniri sunt doar de referință!!
 
 # Plan de învățământ
-Planul de învățământ pentru **Seria D**
 
 ### 2025-2026 - Semestrul 1 (CTI - Seria D & partial C)
 |         Examen       |                   Discipline (**obligatorii**)                                                                      |  Forma evaluare   | Crd. |               Curs                |    Laborator/Seminar      |
@@ -57,6 +56,7 @@ Planul de învățământ pentru **Seria D**
 |          DF          | [ED - Electronica Digitala](Semestrul%203/ED%20-%20Electronica%20Digitala)                                          |   E               |  5   |                                   | Bianca Gusita             |
 |          DF          | [TS - Teoria Sistemelor](Semestrul%203/TS%20-%20Teoria%20Sistemelor)                                                |   V               |  5   |                                   | Claudia Dragos            |
 |          DC          | Educatie Fizica si Sport 3                                                                                          |   V               |  1   |                                   |                           |
+|                      | Total                                                                                                               |                   |  30  |                                   |                           |
 
 
 # Anii anteriori
