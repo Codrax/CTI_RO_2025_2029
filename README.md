@@ -54,7 +54,7 @@ Subiectele se schimba de la an la an, asadar examenele puse aici si pe alte most
 |          DF          | [POO - Programare Orientata pe Obiecte](Semestrul%203/POO%20-%20Programare%20Orientata%20pe%20Obiecte)              |   E               |  5   |                                   |                           |
 |          DF          | [AC - Arhitecture Calculatoarelor](Semestrul%203/AC%20-%20Arhitecture%20Calculatoarelor)                            |   E               |  5   |                                   |                           |
 |          DF          | [ED - Electronica Digitala](Semestrul%203/ED%20-%20Electronica%20Digitala)                                          |   E               |  5   |                                   | Bianca Gusita             |
-|          DF          | [TS - Teoria Sistemelor](Semestrul%203/TS%20-%20Teoria%20Sistemelor)                                                |   V               |  5   |                                   | Claudia Dragos            |
+|          DF          | [TS - Teoria Sistemelor](Semestrul%203/TS%20-%20Teoria%20Sistemelor)                                                |   V               |  5   | Radu-Emil Precup.                 | Claudia Dragos            |
 |          DC          | Educatie Fizica si Sport 3                                                                                          |   V               |  1   |                                   |                           |
 |                      | Total                                                                                                               |                   |  30  |                                   |                           |
 
